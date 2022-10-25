@@ -1,2 +1,3 @@
 # GitHub-Practice
-😨 training and training
+😨 training and more training  
+😰 github練習用リポジトリ
