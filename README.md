@@ -2,4 +2,4 @@
 😨 training and more training  
 😰 github練習用リポジトリ
 
-test
+testlai
