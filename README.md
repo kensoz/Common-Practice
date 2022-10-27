@@ -3,5 +3,3 @@
 
 😨 GitHub練習用リポジトリ  
 😰 for GitHub Practice
-
--
